@@ -1,0 +1,3 @@
+[submodule "uGecko"]
+	path = uGecko
+	url = https://github.com/NessieHax/uGecko.git
